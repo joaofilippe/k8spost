@@ -6,5 +6,5 @@ spec:
   selector:
     app: go-app
   ports:
-  - port: <Port>
-    targetPort: <Target Port>
+  - port: 3000
+    targetPort: 3000

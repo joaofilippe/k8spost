@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: mysql-h
+  name: postgres-h
 spec:
   selector:
-    app: mysql
+    app: postgres
   ports:
-  - port: 3360
+  - port: 5432
   clusterIP: None 
