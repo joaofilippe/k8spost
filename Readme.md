@@ -1,1 +1,1 @@
-Repository for k8s with postgres tests
+Repositório com um servidor em Golang simples, com fins de implementar uma comunicação entre serviços Kubernetes. 
